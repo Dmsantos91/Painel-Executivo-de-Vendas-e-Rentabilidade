@@ -2,6 +2,9 @@
 Projeto de Business Intelligence focado em identificar gargalos financeiros, analisar o impacto de descontos na margem de lucro e otimizar a tomada de decisão da diretoria.
 
 📊 Painel Executivo de Vendas e Rentabilidade
+
+<img width="1267" height="812" alt="Painel Executivo de Vendas" src="https://github.com/user-attachments/assets/e556994c-fd3f-48f1-9b48-72c3d75e1de1" />
+
 📌 Visão Geral do Projeto
 Em ambientes corporativos complexos, um alto volume de vendas brutas pode frequentemente mascarar margens de lucro espremidas e ineficiências na política de descontos. Este projeto de Business Intelligence (BI) foi desenvolvido para fornecer à diretoria e aos gestores financeiros uma visão clara e acionável sobre a saúde financeira da operação.
 
